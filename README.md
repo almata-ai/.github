@@ -1,1 +1,1 @@
-# ![Almata}(profile/lambdinox-original-alignment.png)
+# ![Almata](profile/lambdinox-original-alignment.png)
